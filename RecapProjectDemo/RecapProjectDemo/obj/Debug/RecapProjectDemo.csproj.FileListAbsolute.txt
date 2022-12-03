@@ -1,0 +1,16 @@
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\RecapProjectDemo.exe.config
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\RecapProjectDemo.exe
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\RecapProjectDemo.pdb
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\EntityFramework.dll
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\EntityFramework.xml
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.csproj.AssemblyReference.cache
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.csproj.SuggestedBindingRedirects.cache
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.Form1.resources
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.Properties.Resources.resources
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.csproj.GenerateResource.cache
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.csproj.CoreCompileInputs.cache
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.csproj.CopyComplete
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.exe
+C:\Users\umuru\source\repos\RecapProjectDemo\RecapProjectDemo\obj\Debug\RecapProjectDemo.pdb
